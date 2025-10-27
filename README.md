@@ -63,7 +63,7 @@ pip install autopep8 black pyflakes
 
 ### Running the Application
 ```bash
-python deepseek_python_20251027_040e57.py
+python PyDDLE v1.0.py
 ```
 
 ## Usage
