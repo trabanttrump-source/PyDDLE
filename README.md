@@ -2,6 +2,8 @@
 
 A comprehensive Python Integrated Development Environment built with PyQt5, featuring advanced code editing, debugging, and executable compilation capabilities.
 
+Direct download exe package:
+https://box.pionier.net.pl/f/2aca7bf5814a489c94ff/?dl=1
 ## Features
 
 ### Code Editing
